@@ -1,0 +1,17 @@
+.wrapper {
+  width: 300px;
+  height: 300px;
+  margin: 30px auto;
+  text-align: center;
+  border: 2px solid rgb(192, 190, 190);
+  box-shadow: 2px 2px 2px rgb(192, 190, 190);
+}
+h1,
+#random {
+  text-align: center;
+}
+#random {
+  color: rgb(192, 190, 190);
+  font-size: 100px;
+  font-weight: bold;
+}
